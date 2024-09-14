@@ -1,0 +1,11 @@
+.navbar{
+  display: flex;
+  background-color: rgb(233, 44, 76);
+  margin-bottom: 2em;
+  padding-block: 0.3em;
+  width: 100%;
+  justify-content: center;
+  gap: 2em;
+  font-size: 3em;
+  font-family: "Protest Guerrilla", sans-serif;
+  border-radius: 1em 1em 0 0;}
